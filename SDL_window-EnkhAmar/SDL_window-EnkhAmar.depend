@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614912007 source:d:\education\num_datastructures\sdl_window-enkhamar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+

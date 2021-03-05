@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614857726 source:d:\education\num_datastructures\color-change-per-second\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
