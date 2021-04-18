@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1618752248 source:d:\education\num_datastructures\sdl-lab\sdl-move-object-enkhamar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<SDL2/SDL.h>
+
