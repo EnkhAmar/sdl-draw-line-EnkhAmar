@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1620748210 source:d:\education\num_datastructures\sdl-lab\sdl-game1-enkhamar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+
